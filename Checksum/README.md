@@ -1,4 +1,4 @@
-# CN
+# Checksum Program
 
 Problem Statements:
 
